@@ -6,7 +6,8 @@ browser once they have been changed in git.
 
 ## Installation
 
-Put `append_git_id.rb` in your Jekyll `_plugins` directory.
+Put `append_git_id.rb` in your Jekyll `_plugins` directory. Make sure you have
+grit installed. (That's easy using `gem install grit`.)
 
 ## Usage
 
